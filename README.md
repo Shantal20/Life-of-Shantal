@@ -1,4 +1,3 @@
-<!DOCTYPE html> <lang><!--this is our DTD ( Shantal Life Story ).  --></lang>
 
 <html>
 
@@ -82,7 +81,3 @@
 </select>
 
 	
-</body>
-
-
-</html>
